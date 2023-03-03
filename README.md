@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZuraJeladze2
 - 👀 I’m interested in Web Development, Game Development
-- 💞️ I know basic Unity 3D, C#, HTML, CSS, Javascript, Python, Java
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Unity 3D
+- 💞️ I know HTML, CSS, Javascript. Also basic Python, Java, Unity 3D, C#, 
+- 🌱 I’m currently learning JavaScript and React.
 
 
 <!---
